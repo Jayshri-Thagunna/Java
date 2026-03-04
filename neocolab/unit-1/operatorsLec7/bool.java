@@ -12,6 +12,9 @@ Input 3 :
 Output 3 :
 false
 */
+
+import java.util.Scanner;
+
 public class bool{
     public static void main(String[] args) {
         //Type your code here

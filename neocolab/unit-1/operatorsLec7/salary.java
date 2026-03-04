@@ -12,6 +12,7 @@ Input 2 :
 Output 2 :
 Rs. 53161.39
 */
+import java.util.Scanner;
 
 public class salary {
    public static void main(String[] args) {

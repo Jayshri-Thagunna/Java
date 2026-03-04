@@ -19,6 +19,7 @@ Input 4 :
 Output 4 :
 Not a valid two-digit number.
 */
+import java.util.Scanner;
 
 public class ifelse {
     public static void main(String[] args) {
@@ -27,7 +28,8 @@ public class ifelse {
             int n = sc.nextInt();
             
             int sum = 0;
-        if(n >= 10 && n <= 99){
+
+            if(n >= 10 && n <= 99){
             while(n > 0){
             sum = sum + (n%10);
             n = n/10;

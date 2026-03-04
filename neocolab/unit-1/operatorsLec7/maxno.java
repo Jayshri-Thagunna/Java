@@ -12,6 +12,7 @@ Input 3 :
 Output 3 :
 -35
 */
+import java.util.Scanner;
 
 public class maxno {
     public static void main(String[] args) {

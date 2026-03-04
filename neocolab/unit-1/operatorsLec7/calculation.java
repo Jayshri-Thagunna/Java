@@ -12,6 +12,9 @@ Input 2 :
 Output 2 :
 Result of (-1 & 6 | 5) 
 */
+
+import java.util.Scanner;
+
 public class calculation{
     public static void main(String[] args) {
         //Type your code here
